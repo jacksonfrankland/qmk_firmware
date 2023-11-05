@@ -4,7 +4,7 @@
 #pragma once
 
 // Good defaults for home row modifiers
-#define TAPPING_TERM 300
+#define TAPPING_TERM 270
 
 // #define PIMORONI_TRACKBALL_SCALE 50
 
